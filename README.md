@@ -14,20 +14,20 @@ Al final de este curso, los participantes podrán:
 
 ### Esquema del curso:
 
-Módulo 1: Introducción al modelo de datos OMOP-CDM (1 hora)
+Módulo 1: Introducción al modelo de datos OMOP-CDM
 - Descripción general del modelo de datos OMOP-CDM
 - Conceptos y principios clave del modelo de datos OMOP-CDM
 - Comprensión de la estructura y tablas clave del modelo de datos OMOP-CDM
 - Introducción a los vocabularios OMOP-CDM
 - Resultados del aprendizaje: los participantes comprenderán los conceptos básicos del modelo de datos OMOP-CDM, su estructura y los vocabularios utilizados.
 
-Módulo 2: Vocabularios OMOP-CDM (1 hora)
+Módulo 2: Vocabularios OMOP-CDM
 - Introducción a los vocabularios OMOP-CDM
 - Comprender los diferentes tipos de vocabulario
 - Uso de vocabularios en el modelo de datos OMOP-CDM
 - Resultados del aprendizaje: Los participantes comprenderán los diferentes tipos de vocabularios OMOP-CDM y su uso en el modelo de datos.
 
-Módulo 3: Consultas habituales de interés clínico (2 horas)
+Módulo 3: Consultas habituales de interés clínico
 - Introducción a SQL
 - Comandos SQL básicos para consultar el modelo de datos OMOP-CDM    
 - Consultas de ejemplo y sus casos de uso
@@ -42,7 +42,7 @@ Módulo 4: Introducción a las herramientas web OHDSI (Achilles, Ares, Atlas, et
 - Ejecución de consultas de cohortes en Atlas
 - Resultados del aprendizaje: los participantes aprenderán a crear y ejecutar consultas de cohortes utilizando la aplicación web Atlas.
 
-Módulo 5: Extracción de cohortes (1 hora)
+Módulo 5: Extracción de cohortes
 - Introducción a los estudios OHDSI y las herramientas de extracción de cohortes
 - Extracción de datos del modelo de datos OMOP-CDM para estudios observacionales
 - Métodos para la extracción de datos
