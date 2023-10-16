@@ -51,7 +51,7 @@ Módulo 5: Extracción de cohortes (1 hora)
 - Conclusión: resumen de los conceptos clave cubiertos en el curso, sesión final de preguntas y respuestas. (1 hora)
 
 ### Recursos:
-
+- [Presentacoines del curso](https://github.com/alabarga/omop-cdm-course/tree/main/slides)
 - [El Libro de OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)
 - [EHDEN academy](https://academy.ehden.eu/)
 - [OHDSI workshops](https://www.ohdsi.org/tutorial-workshops/)
