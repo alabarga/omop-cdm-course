@@ -2,9 +2,6 @@
 
 Este curso tiene como objetivo proporcionar una comprensión profunda del modelo de datos OHDSI OMOP-CDM, sus vocabularios y cómo usar la aplicación web Atlas para crear cohortes y extraer datos para estudios observacionales. El curso cubrirá los conceptos y principios básicos del modelo de datos OMOP-CDM, incluida su estructura, tablas clave y vocabularios. Además, el curso cubrirá los aspectos prácticos de trabajar con Atlas, incluido cómo crear y ejecutar consultas de cohortes.
 
-- Duración del curso: 8 horas
-- Instructor del curso: Alberto Labarga Gutiérrez
-
 ### Objetivos de aprendizaje: 
 
 Al final de este curso, los participantes podrán:
