@@ -52,4 +52,7 @@ Módulo 5: Extracción de cohortes (1 hora)
 
 ### Recursos:
 
-     • El Libro de OHDSI (PDF)
+- [El Libro de OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)
+- [EHDEN academy](https://academy.ehden.eu/)
+- [OHDSI workshops](https://www.ohdsi.org/tutorial-workshops/)
+- [Atlas tutorials](https://www.youtube.com/playlist?list=PLpzbqK7kvfeUXjgnpNMFoff3PDOwv61lZ)
